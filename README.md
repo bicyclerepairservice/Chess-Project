@@ -8,7 +8,6 @@
 Воропаев Роберт Ираклиевич
 
 ---------
-![didnt-read](https://github.com/bicyclerepairservice/Chess-Project/assets/133600177/2a104c85-92e3-4d37-b534-700361a829e5)
 
 ### Общая информация по репозиторию
 
